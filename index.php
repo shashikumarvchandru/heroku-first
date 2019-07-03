@@ -12,7 +12,7 @@
 
 		$servername = "sql146.main-hosting.eu.";
 		$username = "u802709898_sampl";
-		$password = "sample123!@#";
+		$password = "rHFECdEDT3h6";
 		$database = "u802709898_sampl";
 
 		// Create connection
